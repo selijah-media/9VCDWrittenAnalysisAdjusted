@@ -98,6 +98,94 @@ window.SITE = {
      "src": "images/items/yarn-5.jpg"
     }
    ]
+  },
+  {
+   "slug": "kangaroo",
+   "name": "Amanda Brooks Kangaroo & Wren Boxed Coffee Mug",
+   "views": [
+    {
+     "label": "Mug and box",
+     "src": "images/items/kangaroo-1.jpg"
+    },
+    {
+     "label": "Box details",
+     "src": "images/items/kangaroo-2.jpg"
+    },
+    {
+     "label": "Mug front",
+     "src": "images/items/kangaroo-3.jpg"
+    },
+    {
+     "label": "Mug side",
+     "src": "images/items/kangaroo-4.jpg"
+    },
+    {
+     "label": "Mug and box 2",
+     "src": "images/items/kangaroo-5.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "bunny",
+   "name": "Bug Art Kooks Binky Bunny Fine China Coffee Mug",
+   "views": [
+    {
+     "label": "Box front",
+     "src": "images/items/bunny-1.jpg"
+    },
+    {
+     "label": "Box angle",
+     "src": "images/items/bunny-2.jpg"
+    },
+    {
+     "label": "Mug – right",
+     "src": "images/items/bunny-3.jpg"
+    },
+    {
+     "label": "Mug – left",
+     "src": "images/items/bunny-4.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "dogs",
+   "name": "Faithful Friends Multi Dogs Fine China Coffee Mug",
+   "views": [
+    {
+     "label": "Mug and box",
+     "src": "images/items/dogs-1.jpg"
+    },
+    {
+     "label": "Mug – right",
+     "src": "images/items/dogs-2.jpg"
+    },
+    {
+     "label": "Mug – left",
+     "src": "images/items/dogs-3.jpg"
+    },
+    {
+     "label": "Mug – front",
+     "src": "images/items/dogs-4.jpg"
+    }
+   ]
+  },
+  {
+   "slug": "sheep",
+   "name": "Grey Sheep Ceramic Coffee Mug",
+   "views": [
+    {
+     "label": "Mug and box",
+     "src": "images/items/sheep-1.jpg"
+    },
+    {
+     "label": "Mug front",
+     "src": "images/items/sheep-2.jpg"
+    },
+    {
+     "label": "Mug – handle",
+     "src": "images/items/sheep-3.jpg"
+    }
+   ]
   }
  ],
  "sample": {
